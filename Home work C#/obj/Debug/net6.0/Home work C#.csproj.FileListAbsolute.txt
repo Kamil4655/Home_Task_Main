@@ -1,0 +1,14 @@
+C:\Users\Kamil\Desktop\Home work C#\Home work C#\bin\Debug\net6.0\Home work C#.exe
+C:\Users\Kamil\Desktop\Home work C#\Home work C#\bin\Debug\net6.0\Home work C#.deps.json
+C:\Users\Kamil\Desktop\Home work C#\Home work C#\bin\Debug\net6.0\Home work C#.runtimeconfig.json
+C:\Users\Kamil\Desktop\Home work C#\Home work C#\bin\Debug\net6.0\Home work C#.dll
+C:\Users\Kamil\Desktop\Home work C#\Home work C#\bin\Debug\net6.0\Home work C#.pdb
+C:\Users\Kamil\Desktop\Home work C#\Home work C#\obj\Debug\net6.0\Home work C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\Home work C#\Home work C#\obj\Debug\net6.0\Home work C#.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\Home work C#\Home work C#\obj\Debug\net6.0\Home work C#.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\Home work C#\Home work C#\obj\Debug\net6.0\Home work C#.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Home work C#\Home work C#\obj\Debug\net6.0\Home work C#.dll
+C:\Users\Kamil\Desktop\Home work C#\Home work C#\obj\Debug\net6.0\refint\Home work C#.dll
+C:\Users\Kamil\Desktop\Home work C#\Home work C#\obj\Debug\net6.0\Home work C#.pdb
+C:\Users\Kamil\Desktop\Home work C#\Home work C#\obj\Debug\net6.0\Home work C#.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\Home work C#\Home work C#\obj\Debug\net6.0\ref\Home work C#.dll
