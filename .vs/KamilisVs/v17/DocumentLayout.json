@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kamil\\Desktop\\KamilisVs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D55E047-C4EC-4BFB-9E67-35DCBCA27DC4}|KamilisVs\\KamilisVs.csproj|c:\\users\\kamil\\desktop\\kamilisvs\\kamilisvs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D55E047-C4EC-4BFB-9E67-35DCBCA27DC4}|KamilisVs\\KamilisVs.csproj|solutionrelative:kamilisvs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\KamilisVs\\KamilisVs\\Program.cs",
+              "RelativeDocumentMoniker": "KamilisVs\\Program.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\KamilisVs\\KamilisVs\\Program.cs",
+              "RelativeToolTip": "KamilisVs\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:55:18.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

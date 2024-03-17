@@ -1,0 +1,14 @@
+C:\Users\Kamil\Desktop\KamilisVs\KamilisVs\bin\Debug\net6.0\KamilisVs.exe
+C:\Users\Kamil\Desktop\KamilisVs\KamilisVs\bin\Debug\net6.0\KamilisVs.deps.json
+C:\Users\Kamil\Desktop\KamilisVs\KamilisVs\bin\Debug\net6.0\KamilisVs.runtimeconfig.json
+C:\Users\Kamil\Desktop\KamilisVs\KamilisVs\bin\Debug\net6.0\KamilisVs.dll
+C:\Users\Kamil\Desktop\KamilisVs\KamilisVs\bin\Debug\net6.0\KamilisVs.pdb
+C:\Users\Kamil\Desktop\KamilisVs\KamilisVs\obj\Debug\net6.0\KamilisVs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\KamilisVs\KamilisVs\obj\Debug\net6.0\KamilisVs.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\KamilisVs\KamilisVs\obj\Debug\net6.0\KamilisVs.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\KamilisVs\KamilisVs\obj\Debug\net6.0\KamilisVs.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\KamilisVs\KamilisVs\obj\Debug\net6.0\KamilisVs.dll
+C:\Users\Kamil\Desktop\KamilisVs\KamilisVs\obj\Debug\net6.0\refint\KamilisVs.dll
+C:\Users\Kamil\Desktop\KamilisVs\KamilisVs\obj\Debug\net6.0\KamilisVs.pdb
+C:\Users\Kamil\Desktop\KamilisVs\KamilisVs\obj\Debug\net6.0\KamilisVs.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\KamilisVs\KamilisVs\obj\Debug\net6.0\ref\KamilisVs.dll
